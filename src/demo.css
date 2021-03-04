@@ -1,0 +1,10 @@
+.news{
+    width:200px;
+    height:180px;
+    background-color:blue;
+    overflow: auto;
+}
+.div2{
+    color:red;
+    height:30px;
+}
